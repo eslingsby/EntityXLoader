@@ -1,0 +1,7 @@
+binary/*
+build/*
+thirdparty/*
+
+!binary/data
+
+!thirdparty/CMakeLists.txt
